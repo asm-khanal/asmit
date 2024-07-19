@@ -1,7 +1,7 @@
 const data = {
-    name: "MY_NAME",
-    githubLink: "https://github.com/GITHUB_USERNAME" ,
-    email : "MAIL_ADDRESS",
+    name: "ASMIT KHANAL",
+    githubLink: "https://github.com/asm-khanal" ,
+    email : "nepalasmitnp@gmail.com",
     hobbies : [
         "Movies",
         "Travelling",
